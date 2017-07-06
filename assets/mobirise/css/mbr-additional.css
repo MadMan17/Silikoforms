@@ -807,6 +807,50 @@ h6,
 #custom-html-o .my-image {
   width: 100%;
 }
+
+
+#header1-4 .mbr-section-title {
+  font-size: 48px;
+}
+#form2-9 .mbr-section-title {
+  color: #fff;
+  font-size: 36px;
+  text-align: center;
+}
+#form2-9 .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#features3-g H4 {
+  text-align: center;
+}
+#features4-x .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-x .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#testimonials1-h .mbr-section-title {
+  color: #00a885;
+}
+#testimonials1-h .card-block P {
+  text-align: left;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+}
+#testimonials1-h .card-block SPAN {
+  text-align: left;
+}
+#testimonials1-h .card-block DIV {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+}
+#testimonials1-h .card-footer > div {
+  color: #000000;
+}
+#form1-i .form-control-label {
+  color: #232323;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -874,20 +918,6 @@ h6,
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
-}
-#header1-4 .mbr-section-title {
-  font-size: 48px;
-}
-#form2-9 .mbr-section-title {
-  color: #fff;
-  font-size: 36px;
-  text-align: center;
-}
-#form2-9 .mbr-section-subtitle {
-  color: #a0a0a0;
-}
-#form1-i .form-control-label {
-  color: #232323;
 }
 #menu-r .hide-buttons .nav-btn {
   display: none !important;
