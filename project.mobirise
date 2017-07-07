@@ -434,11 +434,16 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "46px"
+            }
+          },
           "_anchor": "header1-1a",
           "_params": {
             "parallax": false,
             "bgImageRadio": true,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/f4641f4319fb4d557d5ab4a9bfe4aa16-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -456,12 +461,7 @@
           },
           "title": "Формы для муссовых тортов из Италии!",
           "text": "Не существует граней возможного! Создавай шедевры у себя на кухне!<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "46px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_name": "footer1",
@@ -509,7 +509,7 @@
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "showArrow": true
+            "showArrow": false
           },
           "media": {
             "image": {
@@ -534,16 +534,6 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff",
-              "font-size": "36px",
-              "text-align": "center"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            }
-          },
           "_tags": [
             "Theme"
           ],
@@ -577,7 +567,12 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Хочу уникальный рецепт!</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Хочу уникальный рецепт!</a>",
+          "_customCSS": ".mbr-section-title {\n\tcolor: #fff;\n\tfont-size: 36px;\n\ttext-align: center;\n}\n.mbr-section-subtitle {\n\tcolor: #a0a0a0;\n}\n",
+          "_customHTML": "<section class=\"mbr-section mbr-background\" style=\"background-image: url(@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg); padding-top: 160px; padding-bottom: 120px;\">\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(34, 34, 34);\">\n    </div>    <div class=\"mbr-section mbr-section__container mbr-section__container--middle\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 text-xs-center\">\n                    <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"37\">Хочешь получить уникальный рецепт потрясающего муссового торта? Тогда оставляй адрес электронной почты и мы отправим его тебе!</h3>\n                    \n                </div>\n            </div>\n        </div>\n    </div>\n    <div class=\"mbr-section mbr-section-nopadding\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-10 col-lg-offset-1\" data-form-type=\"formoid\">\n                    <div data-form-alert=\"true\"><div hidden=\"\" data-form-alert-success=\"true\">Вашь рецепт был отправлен</div></div>\n                    <form class=\"mbr-form\" action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"Хочешь получить уникальный рецепт потрясающего муссового торта? Тогда оставляй адрес электронной почты и мы отправим его тебе!\">\n                        <input type=\"hidden\" value=\"ZJfXulL8q8vJkJJrYK7GQi2zUNXhqyomw7KesaPaVRmYIsNTWXw/JQwhgq9zIUQPsgGTjOrIUjl+Q1DpRWqq9usL4e7SM7dp6wqwMwy6Kme0siPWvJytVHzle9rQx2nC\" data-form-email=\"true\">\n                        <div class=\"mbr-subscribe mbr-subscribe-dark input-group\">\n                            <input type=\"email\" class=\"form-control\" name=\"email\" required=\"\" data-form-field=\"Email\" placeholder=\"Введите свой адрес электронной почты\" id=\"form2-9-email\">\n                            <span class=\"input-group-btn\"><button type=\"submit\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"38\">Хочу уникальный рецепт!</button></span>\n                        </div>\n                    </form>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true
         },
         {
           "_tags": [
@@ -1028,7 +1023,7 @@
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SilikoForms</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Контакты:</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Селикомарт.html\">+79826362250</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
-          "_customHTML": "<section>\n\n    <nav class=\"navbar navbar-dropdown bg-color transparent navbar-fixed-top\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"https://mobirise.com\" class=\"icon54-v2-st-petersburg mbr-iconfont mbr-iconfont-menu navbar-logo\" style=\"color: rgb(250, 197, 28);\"></a>\n                        <a class=\"navbar-caption text-warning\" href=\"https://mobirise.com\">SilikoForms</a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item dropdown\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"16\">Контакты:</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"Селикомарт.html\" code-editable-id=\"17\">+79826362250</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"18\"></a></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
+          "_customHTML": "<section>\n\n    <nav class=\"navbar navbar-dropdown bg-color transparent navbar-fixed-top\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"https://mobirise.com\" class=\"icon54-v2-st-petersburg mbr-iconfont mbr-iconfont-menu navbar-logo\" style=\"color: rgb(250, 197, 28);\"></a>\n                        <a class=\"navbar-caption text-warning\" href=\"https://mobirise.com\">SilikoForms</a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item dropdown\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"20\">Контакты:</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"Селикомарт.html\" code-editable-id=\"21\">+79826362250</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"22\"></a></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true,
@@ -1047,7 +1042,7 @@
             },
             "H1": {
               "font-size": "36px",
-              "color": "#efefef"
+              "color": "#ffffff"
             },
             "H4": {
               "font-size": "36px"
@@ -1106,220 +1101,6 @@
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить заявку</a>",
           "title": "<h1><b>&nbsp;У вас есть возможность приобрести формы, которыми пользуются кондитеры мирового значения!</b></h1>",
           "text": "&nbsp;Такие как Пьер Эрме,&nbsp;Дэвид Кейкс,&nbsp;Садахару Аоки и Ренат Агзамов."
-        }
-      ]
-    },
-    "page2.html": {
-      "settings": {
-        "title": "Web Builder Title",
-        "meta_descr": "Web Builder Description"
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "20px"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-r",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "st-petersburg",
-              "family": "icon54-v2",
-              "link": "https://mobirise.com",
-              "size": "",
-              "color": "#fac51c",
-              "active": true,
-              "newWindow": false
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SilikoForms</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Контакты:</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Селикомарт.html\">+79826362250</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-s",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 SilikoForms."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-t",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "+7(982)636-22-50",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "1234 Street Name, City AA 99999",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "kirillvakolyuk@mail,ru",
-          "title1": "Categories",
-          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
-          "form": {
-            "title": "MESSAGE",
-            "action": "kirillvakolyuk@mail.ru",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
         }
       ]
     }
