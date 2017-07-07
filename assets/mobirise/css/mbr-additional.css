@@ -815,11 +815,11 @@ h6,
 #msg-box4-1d H3 {
   color: #ffffff;
 }
-#form2-1b .mbr-section-title {
+#form2-1n .mbr-section-title {
   color: #fff;
   font-size: 36px;
 }
-#form2-1b .mbr-section-subtitle {
+#form2-1n .mbr-section-subtitle {
   color: #a0a0a0;
 }
 #extShop1-1c .galleryItem h4:hover {
@@ -963,5 +963,163 @@ h6,
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
+  background-color: #ffffff;
+}
+
+
+#header1-1o .mbr-section-title {
+  font-size: 46px;
+}
+#msg-box4-1q H3 {
+  color: #ffffff;
+}
+#form2-1r .mbr-section-title {
+  color: #fff;
+  font-size: 36px;
+}
+#form2-1r .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#extShop1-1s .galleryItem h4:hover {
+  color: #c0a375;
+}
+#extShop1-1s .mbr-gallery-filter ul li.active {
+  color: #c0a375;
+}
+#extShop1-1s .mbr-gallery-filter ul li:hover {
+  color: #c0a375;
+}
+#extShop1-1s .mbr-gallery-filter ul li:before {
+  background: #c0a375;
+}
+#extShop1-1s .min-toggle:hover,
+#extShop1-1s .max-toggle:hover {
+  background-color: #c0a375;
+}
+#extShop1-1s .shop-title {
+  font-family: 'Montserrat', sans-serif;
+}
+#extShop1-1s .categories-titles .mbr-gallery-filter ul li {
+  font-family: 'Montserrat', sans-serif;
+}
+#extShop1-1s .max-input {
+  font-family: 'Montserrat', sans-serif;
+}
+#extShop1-1s .min-input {
+  font-family: 'Montserrat', sans-serif;
+}
+#extShop1-1s .item-title {
+  font-family: 'Montserrat', sans-serif;
+}
+#extShop1-1s .item-subtitle {
+  font-family: 'Lora', serif;
+}
+#extShop1-1s .card-description {
+  font-family: 'Raleway', sans-serif;
+}
+#extShop1-1s .shop-item-price {
+  font-family: 'Montserrat', sans-serif;
+}
+#features4-1t .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-1t .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#testimonials1-1u .mbr-section-title {
+  color: #fac51c;
+}
+#testimonials1-1u .card-block P {
+  text-align: left;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+}
+#testimonials1-1u .card-block SPAN {
+  text-align: left;
+}
+#testimonials1-1u .card-block DIV {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+}
+#testimonials1-1u .card-footer > div {
+  color: #000000;
+}
+#extHeader13-1v H3 {
+  font-size: 36px;
+}
+#extHeader13-1v H1 {
+  font-size: 36px;
+  color: #ffffff;
+}
+#extHeader13-1v H4 {
+  font-size: 36px;
+}
+#menu-1w .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1w .navbar-caption {
+  color: #ffffff;
+  font-size: 20px;
+}
+#menu-1w .navbar-toggler {
+  color: #ffffff;
+}
+#menu-1w .link,
+#menu-1w .dropdown-item {
+  color: #ffffff;
+}
+#menu-1w .link {
+  font-size: 0.75rem;
+}
+#menu-1w .dropdown-item,
+#menu-1w .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-1w .link:hover,
+#menu-1w .dropdown-item:hover,
+#menu-1w .link:focus,
+#menu-1w .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-1w .link[aria-expanded="true"],
+#menu-1w .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-1w .nav-dropdown-sm .link:focus,
+#menu-1w .nav-dropdown-sm .link:hover,
+#menu-1w .nav-dropdown-sm .dropdown-item:focus,
+#menu-1w .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-1w .navbar,
+#menu-1w .nav-dropdown-sm,
+#menu-1w .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1w .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-1w .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-1w .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1w .bg-color.transparent.opened .link:hover,
+#menu-1w .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-1w .link[aria-expanded="true"],
+#menu-1w .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-1w.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-1w .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-1w .close-icon::before,
+#menu-1w .close-icon::after {
   background-color: #ffffff;
 }
