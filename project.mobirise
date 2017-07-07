@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 34,
+    "uniqCompNum": 47,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -430,6 +430,40 @@
       },
       "components": [
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1a",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/f4641f4319fb4d557d5ab4a9bfe4aa16-2000x1333.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Формы для муссовых тортов из Италии!",
+          "text": "Не существует граней возможного! Создавай шедевры у себя на кухне!<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "46px"
+            }
+          }
+        },
+        {
           "_name": "footer1",
           "_anchor": "footer1-1",
           "_params": {
@@ -450,42 +484,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/f4641f4319fb4d557d5ab4a9bfe4aa16-2000x1333.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0.3"
-          },
-          "title": "Формы для муссовых тортов из Италии",
-          "text": "Не существует граней возможного! Создавай шедевры у себя на кухне!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-section-with-arrow mbr-after-navbar\" style=\"background-image: url(@PROJECT_PATH@/assets/images/f4641f4319fb4d557d5ab4a9bfe4aa16-2000x1333.jpg);\">\n<!-- Yandex.Metrika counter -->\n{JS_CODE_0}\n<noscript>&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;div&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;img src=\"https://mc.yandex.ru/watch/45223206\" style=\"position:absolute; left:-9999px;\" alt=\"\" /&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/div&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;</noscript>\n<!-- /Yandex.Metrika counter -->\n    <div class=\"mbr-overlay\" style=\"opacity: 0.3; background-color: rgb(0, 0, 0);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"mbr-section col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"17\">Формы для муссовых тортов из Италии</h1>\n                    <p class=\"mbr-section-lead lead mbr-editable-content\" code-editable-id=\"18\">Не существует граней возможного! Создавай шедевры у себя на кухне!</p>\n                    \n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\"><a href=\"#header2-7\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script type=\"text/javascript\">\n    (function (d, w, c) {\n        (w[c] = w[c] || []).push(function() {\n            try {\n                w.yaCounter45223206 = new Ya.Metrika({\n                    id:45223206,\n                    clickmap:true,\n                    trackLinks:true,\n                    accurateTrackBounce:true,\n                    webvisor:true\n                });\n            } catch(e) { }\n        });\n\n        var n = d.getElementsByTagName(\"script\")[0],\n            s = d.createElement(\"script\"),\n            f = function () { n.parentNode.insertBefore(s, n); };\n        s.type = \"text/javascript\";\n        s.async = true;\n        s.src = \"https://mc.yandex.ru/metrika/watch.js\";\n\n        if (w.opera == \"[object Opera]\") {\n            d.addEventListener(\"DOMContentLoaded\", f, false);\n        } else { f(); }\n    })(document, window, \"yandex_metrika_callbacks\");\n</script>"
-          ],
-          "_customCSS": ".mbr-section-title {\n\tfont-size: 48px;\n}\n",
-          "_customTemplate": true,
-          "_anchor": "header1-4"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
@@ -495,7 +493,7 @@
           "_anchor": "header2-7",
           "_params": {
             "imageSize": 50,
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/13162550-1087992997933687-880745295-n-2000x2000.jpg",
             "bgColor": "#2e2e2e",
@@ -555,7 +553,7 @@
             "paddingTop": "4",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "parallax": true,
+            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
@@ -585,6 +583,68 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/28-600x400-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/28-600x400.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/28-2-600x400-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/28-2-600x400.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/28-3-600x400-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/28-3-600x400.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/22-600x400-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/22-600x400.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-19",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "features3",
           "_styles": {
             "H4": {
@@ -608,7 +668,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "columns": 4,
-            "showImages": true,
+            "showImages": false,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
@@ -623,7 +683,7 @@
               "link": "",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             }
           },
           "title1": "Abbraccio - 1490 руб.",
@@ -639,12 +699,12 @@
               "link": "",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             }
           },
           "title2": "Eleganza - 1490 руб.",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Для ваших особых случаев положитесь на ELEGANZA, драгоценный камень вкуса, который позволит вам реализовать реальные творения в 3D! Форма имеет специальную и инновационную окантовку, которая дает изделию особую заoкругленную форму у основания. Внутри упаковки вы найдете эксклюзивный рецепт.<br><br>",
+          "caption2": "Для ваших особых случаев положитесь на ELEGANZA, драгоценный камень вкуса, который позволит вам реализовать реальные творения в 3D! Форма имеет специальную и инновационную окантовку, которая дает изделию особую заoкругленную форму у основания. Внутри упаковки вы найдете эксклюзивный рецепт.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"Селикомарт.html#form1-i\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Заказать сейчас</a>",
           "media3": {
             "image": {
@@ -655,12 +715,12 @@
               "link": "",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             }
           },
           "title3": "Girotondo - 1490 руб.",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Инновационные форма в 3D! Oбеспечивает отличные результаты как в реализации замороженных десертов так и выпечки. Каждая упаковка имеет эксклюзивный рецепт, с которым будет проще и приятнее готовить вкусные кулинарные творения.<br><br><br><br>",
+          "caption3": "Инновационные форма в 3D! Oбеспечивает отличные результаты как в реализации замороженных десертов так и выпечки. Каждая упаковка имеет эксклюзивный рецепт, с которым будет проще и приятнее готовить вкусные кулинарные творения.<br><br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"Селикомарт.html#form1-i\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Заказать сейчас</a>",
           "media4": {
             "image": {
@@ -671,12 +731,12 @@
               "link": "",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             }
           },
           "title4": "Batticuore - 1490 руб.",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Идеальное дополненние к особому моменту! Форма имеет специальную и инновационную окантовку, которая дает изделию особую закругленную форму у основания. Внутри упаковки вы найдете уникальный рецепт.<br><br><br><br>",
+          "caption4": "Идеальное дополненние к особому моменту! Форма имеет специальную и инновационную окантовку, которая дает изделию особую закругленную форму у основания. Внутри упаковки вы найдете уникальный рецепт.<br><br><br><br><br>",
           "button4": "<a data-app-btn=\"true\" href=\"Селикомарт.html#form1-i\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Заказать сейчас</a>",
           "media5": {
             "image": {
@@ -842,7 +902,7 @@
           "_name": "testimonials1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#00a885"
+              "color": "#fac51c"
             },
             ".card-block P": {
               "text-align": "left",
@@ -875,7 +935,7 @@
                 }
               },
               "authorName": "Mazamian&nbsp;",
-              "authorBio": "User"
+              "authorBio": ""
             },
             {
               "text": "<div style=\"text-align: left;\"><span style=\"font-style: normal;\">Форма очень эффектная! Люди не знающие, считают,что это высший пилотаж в приготовлении тортов)) а вы можете улыбаться и говорить,что не раскроете секрета такой формы)</span></div><div style=\"text-align: left;\"><span style=\"font-style: normal;\">Стоимость около 1500р, довольно дорого,но она себя оправдывает,особенно если заниматься выпечкой на продажу,такие тортики будут очень популярны!</span></div><div style=\"text-align: left;\"><span style=\"font-style: normal;\"><br></span></div>",
@@ -889,7 +949,7 @@
                 }
               },
               "authorName": "Jessy_13",
-              "authorBio": "User"
+              "authorBio": ""
             },
             {
               "text": "<div>Давно уже хотела купить какую-то интересную и веселую силиконовую формочку, чтоб порадовать оригинальной выпечкой своих домочадцев. И однажды мне на глаза, в интернете попалась эта форма. Смущала только ее цена. Но я все же ее купила, так как приближался день рождения сынишки и хотелось ему сделать сладкий сюрприз. Когда я получила свою долгожданную формочку, она была в пластиковой коробке. При подробном рассмотрении я обнаружила, что качество формы очень хорошее, силикон не слишком мягкий, но и не \"деревянный\", без посторонних резких запахов и аккуратная.</div>",
@@ -903,7 +963,7 @@
                 }
               },
               "authorName": "Vitalinav",
-              "authorBio": "User"
+              "authorBio": ""
             }
           ],
           "_anchor": "testimonials1-h",
@@ -915,7 +975,7 @@
             "showName": true,
             "showBio": true,
             "bgImageRadio": true,
-            "parallax": true,
+            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1339.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
@@ -925,164 +985,8 @@
             "showTitle": true,
             "showSubtitle": false
           },
-          "title": "Отзывы наших покупателей",
+          "title": "<br>Отзывы наших покупателей",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          },
-          "_anchor": "form1-i",
-          "_params": {
-            "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": false
-          },
-          "title": "Контактная форма",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "form": {
-            "action": "kirillvakolyuk@mail.ru",
-            "alerts": {
-              "success": "Спасибо за вашу заявку, наш менеджер свяжется с вами в ближайшее время"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Имя"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Телефон"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Комментарий"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-j",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "class": "card-img-top",
-              "width": 265
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "linkInNewWindow": false,
-              "name": "st-petersburg",
-              "family": "icon54-v2",
-              "link": "",
-              "size": 0,
-              "active": true,
-              "color": "#fac51c"
-            }
-          },
-          "text1": "",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "+7(982)636-22-50",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "1234 Street Name, City AA 99999",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "kirillvakolyuk@mail,ru",
-          "title1": "Categories",
-          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
-          "form": {
-            "title": "MESSAGE",
-            "action": "kirillvakolyuk@mail.ru",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
         },
         {
           "_tags": [
@@ -1124,11 +1028,84 @@
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SilikoForms</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Контакты:</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Селикомарт.html\">+79826362250</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
-          "_customHTML": "<section>\n\n    <nav class=\"navbar navbar-dropdown bg-color transparent navbar-fixed-top\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"https://mobirise.com\" class=\"icon54-v2-st-petersburg mbr-iconfont mbr-iconfont-menu navbar-logo\" style=\"color: rgb(250, 197, 28);\"></a>\n                        <a class=\"navbar-caption text-warning\" href=\"https://mobirise.com\">SilikoForms</a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item dropdown\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"19\">Контакты:</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"Селикомарт.html\" code-editable-id=\"20\">+79826362250</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"21\"></a></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
+          "_customHTML": "<section>\n\n    <nav class=\"navbar navbar-dropdown bg-color transparent navbar-fixed-top\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"https://mobirise.com\" class=\"icon54-v2-st-petersburg mbr-iconfont mbr-iconfont-menu navbar-logo\" style=\"color: rgb(250, 197, 28);\"></a>\n                        <a class=\"navbar-caption text-warning\" href=\"https://mobirise.com\">SilikoForms</a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item dropdown\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"16\">Контакты:</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"Селикомарт.html\" code-editable-id=\"17\">+79826362250</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"18\"></a></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true,
           "_anchor": "menu-r"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader13",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            },
+            "H1": {
+              "font-size": "36px",
+              "color": "#efefef"
+            },
+            "H4": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "extHeader13-z",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1360.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showFormTitle": true,
+            "showTitle": true,
+            "showText": true,
+            "countdown": "2017/07/08",
+            "showArrow": false
+          },
+          "title2": "Торопись! Только сегодня три по цене двух!&nbsp;",
+          "form": {
+            "action": "kirillvakolyuk@mail.ru",
+            "alerts": {
+              "success": "Спасибо за вашу заявку! Наш менеджер свяжется с вами в ближайшее время."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Имя"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Телефон"
+              },
+              "message": {
+                "title": "Message",
+                "visible": false,
+                "customTitle": "Коментарий"
+              }
+            }
+          },
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить заявку</a>",
+          "title": "<h1><b>&nbsp;У вас есть возможность приобрести формы, которыми пользуются кондитеры мирового значения!</b></h1>",
+          "text": "&nbsp;Такие как Пьер Эрме,&nbsp;Дэвид Кейкс,&nbsp;Садахару Аоки и Ренат Агзамов."
         }
       ]
     },

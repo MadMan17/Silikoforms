@@ -809,8 +809,8 @@ h6,
 }
 
 
-#header1-4 .mbr-section-title {
-  font-size: 48px;
+#header1-1a .mbr-section-title {
+  font-size: 46px;
 }
 #header2-7 .mbr-section-title {
   font-size: 48px;
@@ -834,7 +834,7 @@ h6,
   border-color: #f2f2f2;
 }
 #testimonials1-h .mbr-section-title {
-  color: #00a885;
+  color: #fac51c;
 }
 #testimonials1-h .card-block P {
   text-align: left;
@@ -850,9 +850,6 @@ h6,
 }
 #testimonials1-h .card-footer > div {
   color: #000000;
-}
-#form1-i .form-control-label {
-  color: #232323;
 }
 #menu-r .hide-buttons .nav-btn {
   display: none !important;
@@ -921,6 +918,16 @@ h6,
 #menu-r .close-icon::before,
 #menu-r .close-icon::after {
   background-color: #ffffff;
+}
+#extHeader13-z H3 {
+  font-size: 36px;
+}
+#extHeader13-z H1 {
+  font-size: 36px;
+  color: #efefef;
+}
+#extHeader13-z H4 {
+  font-size: 36px;
 }
 #menu-r .hide-buttons .nav-btn {
   display: none !important;
