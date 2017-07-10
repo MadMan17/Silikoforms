@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 69,
+    "uniqCompNum": 70,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -443,7 +443,7 @@
           "_params": {
             "parallax": false,
             "bgImageRadio": true,
-            "showArrow": false,
+            "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/f4641f4319fb4d557d5ab4a9bfe4aa16-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -569,16 +569,16 @@
           "form": {
             "action": "kirillvakolyuk@mail.ru",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Рецепт был отправлен на электронную почту"
             },
             "fields": {
               "email": {
                 "title": "Email",
-                "customTitle": "Enter Your Email Address..."
+                "customTitle": "Введите адрес электронной почты"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Хочу рецепт!</a>"
         },
         {
           "_styles": {
@@ -982,7 +982,7 @@
             "showFormTitle": true,
             "showTitle": true,
             "showText": true,
-            "countdown": "2017/07/08",
+            "countdown": "2017/07/010",
             "showArrow": false
           },
           "title2": "Торопись! Только сегодня три по цене двух!&nbsp;",
@@ -1023,19 +1023,18 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-0",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -1058,13 +1057,14 @@
           },
           "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Селикомарт.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SilikoForms</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Контакты:</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Селикомарт.html\">+79826362250</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Селикомарт.html\">kirillvakolyuk@mail.ru</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
-          "_customHTML": "<section>\n<!-- Yandex.Metrika counter -->\n{JS_CODE_0}\n<noscript>&amp;lt;div&amp;gt;&amp;lt;img src=\"https://mc.yandex.ru/watch/45223206\" style=\"position:absolute; left:-9999px;\" alt=\"\" /&amp;gt;&amp;lt;/div&amp;gt;</noscript>\n<!-- /Yandex.Metrika counter -->\n    <nav class=\"navbar navbar-dropdown bg-color transparent navbar-fixed-top\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"Селикомарт.html\" class=\"icon54-v2-st-petersburg mbr-iconfont mbr-iconfont-menu navbar-logo\" style=\"color: rgb(250, 197, 28);\"></a>\n                        <a class=\"navbar-caption text-warning\" href=\"Селикомарт.html\">SilikoForms</a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item dropdown\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"29\">Контакты:</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"Селикомарт.html\" code-editable-id=\"30\">+79826362250</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"Селикомарт.html\" code-editable-id=\"31\">kirillvakolyuk@mail.ru</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"32\"></a></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
+          "_customHTML": "<section>\n<!-- Yandex.Metrika counter -->\n{JS_CODE_0}\n<noscript>&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;div&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;img src=\"https://mc.yandex.ru/watch/45223206\" style=\"position:absolute; left:-9999px;\" alt=\"\" /&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/div&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;</noscript>\n<!-- /Yandex.Metrika counter -->\n    <nav class=\"navbar navbar-dropdown bg-color transparent navbar-fixed-top\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"Селикомарт.html\" class=\"icon54-v2-st-petersburg mbr-iconfont mbr-iconfont-menu navbar-logo\" style=\"color: rgb(250, 197, 28);\"></a>\n                        <a class=\"navbar-caption text-warning\" href=\"Селикомарт.html\">SilikoForms</a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item dropdown\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"29\">Контакты:</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"Селикомарт.html\" code-editable-id=\"30\">+79826362250</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"Селикомарт.html\" code-editable-id=\"31\">kirillvakolyuk@mail.ru</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"32\"></a></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script type=\"text/javascript\">\n    (function (d, w, c) {\n        (w[c] = w[c] || []).push(function() {\n            try {\n                w.yaCounter45223206 = new Ya.Metrika({\n                    id:45223206,\n                    clickmap:true,\n                    trackLinks:true,\n                    accurateTrackBounce:true,\n                    webvisor:true\n                });\n            } catch(e) { }\n        });\n\n        var n = d.getElementsByTagName(\"script\")[0],\n            s = d.createElement(\"script\"),\n            f = function () { n.parentNode.insertBefore(s, n); };\n        s.type = \"text/javascript\";\n        s.async = true;\n        s.src = \"https://mc.yandex.ru/metrika/watch.js\";\n\n        if (w.opera == \"[object Opera]\") {\n            d.addEventListener(\"DOMContentLoaded\", f, false);\n        } else { f(); }\n    })(document, window, \"yandex_metrika_callbacks\");\n</script>"
           ],
           "_customCSS": ".hide-buttons .nav-btn {\n\tdisplay: none !important;\n}\n.navbar-caption {\n\tcolor: #ffffff;\n\tfont-size: 20px;\n}\n.navbar-toggler {\n\tcolor: #ffffff;\n}\n.link, .dropdown-item {\n\tcolor: #ffffff;\n}\n.link {\n\tfont-size: 0.75rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n\tfont-size: 0.812rem;\n}\n.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {\n\tcolor: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n\tbackground: #0e0e0e;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n\tbackground: #202020!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n\tbackground: #282828;\n}\n.bg-color.transparent .link {\n\tcolor: #ffffff;\n\ttransition: none;\n}\n.bg-color.transparent.opened .link {\n\ttransition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n\tcolor: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n\tcolor: #c0a375!important;\n}\n&.mbr-navbar--stuck .mbr-navbar__section {\n\tbackground: #2c2c2c;\n}\n.mbr-navbar__section {\n}\n.mbr-navbar__hamburger {\n\tcolor: #ffffff;\n}\n.close-icon::before, .close-icon::after {\n\tbackground-color: #ffffff;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "menu-0"
         }
       ]
     },
